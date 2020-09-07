@@ -24,5 +24,5 @@ mail/text alerts sent out when the password needs to be updated or creating a pa
 For anomaly detection, our next step will be to do the detection for real-time data.
 Including details like name, domain and location of the URL while detection malicious websites.
 
-## Try it out
+## Try out our website
 http://howdycyberhack.herokuapp.com/
